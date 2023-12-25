@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakshi Verma</h1>
+<h1 align="center">Hi 👋, I'm Sakii </h1>
 <h3 align="center">A passionate undergrad student interested in Web Development and Machine Learning</h3>
 
 - 🔭 I’m currently working on **Real time Stock Price Prediction project**
