@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sakshi and I'm an undergraduate computer science and artificial intelligence student, passionate about exploring the intersection of technology and intelligence to create innovative solutions</p>
+<p align="left">My name is Sakshi and I'm an undergraduate computer science and artificial intelligence student, passionate about DSA, Backend and LLm's</p>
 
 ###
 
