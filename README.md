@@ -1,5 +1,5 @@
 
-# 💫 Hi 👋, I'm Sakii
+# Hi, I'm Sakii
 **A passionate Software Developer from India**
 <!-- Snake Game Repo View -->
 
